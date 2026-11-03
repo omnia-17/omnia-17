@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there, I'm Omnia (Hecate) 👋
+**Computer & Electrical Engineer | Offensive Security Researcher | Penetration Tester**
 
-<!--
-**omnia-17/omnia-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently focusing on **Web/API Penetration Testing, Bug Bounty Automation, and SOC Operations**.
+- 🌱 Continuously expanding my knowledge in **Smart Contract Security (Web3) & AI-Assisted SecOps**.
+- ✍️ I document my security research, mindmaps, and lab walkthroughs right here on GitHub.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Toolkit
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
