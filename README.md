@@ -32,4 +32,4 @@
 *Maintained with ❤️ & Discipline by Omnia Essam*
 
 
-![PortSwigger Dashboard Proof](./port.png)
+![PortSwigger Dashboard Proof](Security-Operations---Pentesting-Fundamentals/port.png)
