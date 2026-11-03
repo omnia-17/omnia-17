@@ -25,7 +25,6 @@
 ---
 
 ### 📫 Connect & Find Me
-- 🌐 **Bug Bounty Handles:** `hecatethegoddess` | `tempHecate` | `on1001o`
 - 💼 **LinkedIn:** [Omnia Essam](https://www.linkedin.com/in/omnia-e-297196229/)
 - ✉️ **Contact:** [omniaessam530@gmail.com]
 
