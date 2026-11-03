@@ -24,18 +24,10 @@
 
 ---
 
-### 📌 Featured Technical Documentation & Repositories
-- 🐧 **[RHEL-System-Administration](#)** — Comprehensive RHEL internals, process management, and Vim masterclass.
-- ☁️ **[Cloud-Computing-Storage-Architecture](#)** — Data center hardware, SAN/NAS, RAID 0-10, and LVM dynamic provisioning.
-- 🛡️ **[Security-Plus-SecOps-Masterclass](#)** — CIA Triad, Threat Intelligence, PKI, Firewalls, and Incident Response Life Cycle.
-- 🌐 **[Web-Security-eJPT-Methodology](#)** — HTTP/HTTPS mechanics, CORS/SOP, Cookie security, and active/passive recon.
-
----
-
 ### 📫 Connect & Find Me
 - 🌐 **Bug Bounty Handles:** `hecatethegoddess` | `tempHecate` | `on1001o`
-- 💼 **LinkedIn:** [Omnia Essam](https://linkedin.com/in/...)
-- ✉️ **Contact:** [Your Email]
+- 💼 **LinkedIn:** [Omnia Essam](https://www.linkedin.com/in/omnia-e-297196229/)
+- ✉️ **Contact:** [omniaessam530@gmail.com]
 
 ---
 *Maintained with ❤️ & Discipline by Omnia Essam*
